@@ -1,2 +1,4 @@
+codecov:
+  bot: joshpollara
 ignore:
   - "request.py"
